@@ -1,5 +1,5 @@
 # Northstar POS Dashboard
-Functional POS dashboard using HTML/CSS/JavaScript + Express + MySQL.
+Functional POS dashboard using HTML + Express + MySQL.
 
 ## Run
 1. Run `schema.sql` in MySQL Workbench.
